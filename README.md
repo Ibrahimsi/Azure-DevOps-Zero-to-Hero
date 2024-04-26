@@ -9,7 +9,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 
 ### Day 1: Introduction to Azure DevOps and Basic Concepts 🌟
-**Status**: Check out 👉 [Day1](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day1) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day1](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day1) 👈 folder for notes and useful links ✅
 
 - What is Cloud Computing
 - IaaS VS PaaS VS SaaS
@@ -27,7 +27,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 - Azure DevOps hosting options: Azure DevOps Services VS Azure DevOps Server
 
 ### Day 2: Azure Boards and Agile Project Management 📊
-**Status**: Check out 👉 [Day2](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day2) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day2](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day2) 👈 folder for notes and useful links ✅
 
 - What are Azure DevOps Boards 
 - What are Azure board processes, agile, scrum, basic, and CMMI
@@ -44,7 +44,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 - Customizing team process
 
 ### Day 3: Mastering Git and Source Control in Azure DevOps 🌿
-**Status**: Check out 👉 [Day3](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day3) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day3](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day3) 👈 folder for notes and useful links ✅
 
 - Introduction to Source Control and Azure Repos
 - Git vs TFVC
@@ -59,7 +59,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 - Sample application code
 
 ### Day 4: Build Pipeline 🚀
-**Status**: Check out 👉 [Day4](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day4) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day4](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day4) 👈 folder for notes and useful links ✅
 
 
 #### Note: For the demo, We will be using the YouTube Clone website 
@@ -74,7 +74,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 
 ### Day5: 🚀 Continuous Delivery with Azure DevOps Release Pipeline
-**Status**: Check out 👉 [Day5](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day5) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day5](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day5) 👈 folder for notes and useful links ✅
 
 #### Note: this is a continuation of the previous blog.
 
@@ -86,7 +86,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 
 ### Day 6: Azure Test Plans and Testing 🧪
-**Status**: Check out 👉 [Day6](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day6) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day6](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day6) 👈 folder for notes and useful links ✅
 
 #### Note: We will be using the Youtube Clone website to implement the below steps
 - Azure Test Plan Overview
@@ -97,7 +97,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 - Azure Test and Feedback extension
 
 ### Day 7: Basic Project Artifacts with Azure Artifacts 📦
-**Status**: Check out 👉 [Day7](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day7) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day7](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day7) 👈 folder for notes and useful links ✅
 
 #### Note: In this blog, We will use a ✔ Nike Landing page as a sample application for CICD using Azure Artifacts
 
@@ -112,7 +112,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 ### Day 8: Infrastructure as Code (IaC) with Terraform and Azure DevOps🚀
 
-**Status**: Check out 👉 [Day8](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day8) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day8](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day8) 👈 folder for notes and useful links ✅
 
 - Introduction to IaC and Tools
 - Various Terraform commands and workflow
@@ -125,7 +125,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 ### Day9: Self Hosted agents 👨‍🔧 on Azure Virtual machine scale sets 🧑‍💻
 
-**Status**: Check out 👉 [Day9](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day9) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day9](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day9) 👈 folder for notes and useful links ✅
 
 - Microsoft-hosted vs. self-hosted agents
 - Use case of self-hosted agents
@@ -139,7 +139,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 - work folder walkthrough on agent
 
 ### Day 10 Managing Containers with Azure DevOps
-**Status**: Check out 👉 [Day10](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day10) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day10](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day10) 👈 folder for notes and useful links ✅
 
 - What is a container
 - Understanding Virtual machine V/s Containers.
@@ -152,7 +152,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 
 ### Day 11  Implementing end-to-end CI/CD using Azure DevOps on Kubernetes.
-**Status**: Check out 👉 [Day11](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day11) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day11](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day11) 👈 folder for notes and useful links ✅
 
 - Basic Introduction of Kubernetes and its benefits
 - Kubernetes Architecture
@@ -165,7 +165,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
   
 ### Day 12  Security and Permissions in Azure DevOps 🔐
-**Status**: Check out 👉 [Day12](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day12) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day12](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day12) 👈 folder for notes and useful links ✅
 
 - Enabling advanced security in Azure DevOps
 - Dependency Scanning
@@ -175,7 +175,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 - Sample Application: My Health Care - Microservices-based Healthcare management app
 
 ### Day 13: Serverless app CI/CD 🐳
-**Status**: Check out 👉 [Day13](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day13) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day13](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day13) 👈 folder for notes and useful links ✅
 
 - Introduction to Azure functions
 - Use case and benefits of an Azure function
@@ -186,7 +186,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
   
 ### Day 14: Azure DevOps wiki
-**Status**: Check out 👉 [Day14](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day14) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day14](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day14) 👈 folder for notes and useful links ✅
 
 - Overview of wiki
 - Creating and editing a project Wiki
@@ -195,7 +195,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 
 ### Day 15: Azure DevOps Security best practices 🚢
-**Status**: Check out 👉 [Day15](https://github.com/Ibrahimsi/Test-Azure/tree/main/Day15) 👈 folder for notes and useful links ✅
+**Status**: Check out 👉 [Day15](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day15) 👈 folder for notes and useful links ✅
 
 - Azure DevOps Access Control
 - Organization Settings
@@ -209,6 +209,7 @@ Refer to my blog <a href="https://dev.to/ibrahimsi/azure-devops-zero-to-hero-47j
 
 
 ### Day 16: Issue and troubleshooting Azure DevOps
+**Status**: Check out 👉 [Day16](https://github.com/Ibrahimsi/Azure-DevOps-Zero-to-Hero/tree/main/Day16) 👈 folder for notes and useful links ✅
 
 Most common issues you have faced throughout the series and solutions.
 
